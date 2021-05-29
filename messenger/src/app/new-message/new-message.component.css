@@ -1,0 +1,26 @@
+#message-area {
+    color: rgb(192, 192, 192);
+    outline: none;
+    font-weight: lighter;
+    border-radius: 20px;
+    height: 25px;
+    font-size: 1.4rem;
+    padding-left: 20px;
+    padding-right: 100px;
+    /*background: url('D:\other projects\Angular\messenger-app\messenger\src\assets\noun_searchbar_1073884.svg') no-repeat rgb(255, 255, 255);*/
+    background-position: 15px center;
+    background-size: 25px 25px;
+}
+
+#send-button{
+    color: rgb(192, 192, 192);
+    outline: none;
+    font-weight: lighter;
+    border-radius: 20px;
+    height: 25px;
+    font-size: 1.4rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    /*background: url('D:\other projects\Angular\messenger-app\messenger\src\assets\noun_searchbar_1073884.svg') no-repeat rgb(255, 255, 255);*/
+    position: absolute;
+}
